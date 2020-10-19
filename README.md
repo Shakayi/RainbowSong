@@ -1,2 +1,5 @@
 # RainbowSong
-a song about rainbow
+
+a song about rainbow in the key of C major.
+
+The song is a happy song.
